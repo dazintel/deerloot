@@ -1,3 +1,5 @@
+## WAY OUT OF DATE, UNMAINTAINED, DROPPED ##
+
 # Deerloot
 
 Deerloot is a Python-based tool for looking up loot tables in the DayZ "Deer Isle" map. It allows for searching items in an XML file and displaying their associated locations and usages.
